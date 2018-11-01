@@ -1,0 +1,14 @@
+git status
+
+git add .
+
+git commit -m "Commit Message"
+
+git push origin master
+
+git pull
+
+
+# Checkout branch
+
+git checkout -b new_branch_name
